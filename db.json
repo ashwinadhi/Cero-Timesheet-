@@ -1,0 +1,76 @@
+{
+  "employee": [
+    {
+      "id": "c887",
+      "firstName": "Bishal",
+      "lastName": "Ghimire",
+      "email": "bishal.ghmire@gmail.com",
+      "dob": "1995-07-03T18:15:00.000Z",
+      "gender": "male",
+      "visa": "GC",
+      "company": "State Farm",
+      "work": 8,
+      "leave": 0
+    },
+    {
+      "id": "163f",
+      "firstName": "Ashwin ",
+      "lastName": "Adhikari",
+      "email": "ashwinadhikari3@gmail.com",
+      "dob": "2016-07-04T18:15:00.000Z",
+      "gender": "male",
+      "visa": "USC",
+      "company": "Cerotid",
+      "work": 8,
+      "leave": 1
+    },
+    {
+      "id": "68a1",
+      "firstName": "Rajkumar",
+      "lastName": "Adhikari",
+      "email": "rk@capgemini.com",
+      "dob": "1996-09-30T18:15:00.000Z",
+      "gender": "male",
+      "visa": "H1B",
+      "company": "Capgemini",
+      "work": 8,
+      "leave": 0
+    },
+    {
+      "id": "af92",
+      "firstName": "Bipin",
+      "lastName": "Ghimire",
+      "email": "bipin@nityo.com",
+      "dob": "1991-02-12T18:15:00.000Z",
+      "gender": "male",
+      "visa": "Other",
+      "company": "Nityo",
+      "work": 8,
+      "leave": 0
+    },
+    {
+      "id": "8c25",
+      "firstName": "soni",
+      "lastName": "Humagain",
+      "email": "soni@gmail.com",
+      "dob": "2024-05-21T18:15:00.000Z",
+      "gender": "female",
+      "visa": "Other",
+      "company": "House",
+      "work": 8,
+      "leave": 1
+    },
+    {
+      "firstName": "test123",
+      "lastName": "test",
+      "email": "test@gmail.com",
+      "dob": "2024-05-12T18:15:00.000Z",
+      "gender": "female",
+      "visa": "USC",
+      "company": "test",
+      "work": 5,
+      "leave": 5,
+      "id": "6a99"
+    }
+  ]
+}

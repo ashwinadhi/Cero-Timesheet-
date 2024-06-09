@@ -1,2 +1,1 @@
-# Cero-Timesheet-
-Cerotid Timesheet hosted locally
+A simple Timesheet system for a IT solution.
